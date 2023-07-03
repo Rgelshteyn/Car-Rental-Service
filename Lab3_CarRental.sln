@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33027.164
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab3_CarRental", "Lab3_CarRental\Lab3_CarRental.csproj", "{596D51B3-3495-4A0E-B914-B430EFAE8B32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CIS3309Library", "..\CIS3309Library\CIS3309Library\CIS3309Library.csproj", "{48324FFA-1498-492C-8BB7-87D3DCA7DB1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{596D51B3-3495-4A0E-B914-B430EFAE8B32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{596D51B3-3495-4A0E-B914-B430EFAE8B32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{596D51B3-3495-4A0E-B914-B430EFAE8B32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{596D51B3-3495-4A0E-B914-B430EFAE8B32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48324FFA-1498-492C-8BB7-87D3DCA7DB1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48324FFA-1498-492C-8BB7-87D3DCA7DB1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48324FFA-1498-492C-8BB7-87D3DCA7DB1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48324FFA-1498-492C-8BB7-87D3DCA7DB1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E188DAE-AF15-4845-B24D-AB13369DD1AC}
+	EndGlobalSection
+EndGlobal

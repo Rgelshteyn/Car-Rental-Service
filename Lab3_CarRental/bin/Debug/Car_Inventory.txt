@@ -1,0 +1,4 @@
+sport,BMW,m5,2021,5524,250,True,Silver,Lot A,https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.carexpert.com.au%2Fcrop%2F800%2F500%2Fvehicles%2Fsource-g%2F0%2Ff%2F0f642d4c.jpg&f=1&nofb=1&ipt=ac2b5ff40e1e901327934e27b66cb9795c16c8ecbe374600f1f8510d6372ace5&ipo=images
+luxury,Mercedes,S550,2018,34555,200,True,Black,Lot B,https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fnaavtotrasse.ru%2Fwp-content%2Fuploads%2F2019%2F02%2F765ae6c8e74185cb53dd6f3e8badb9d6-1024x768.jpg&f=1&nofb=1&ipt=eb4544d0fa9a74328dfc924ec35c7b51f641d12aaf33662f05824e307b8eef94&ipo=images
+suv,Toyota,4runner,1995,100245,50,True,Grey,Lot C,https://lh4.googleusercontent.com/-PaUdMhc5BIY/U1gwrV00SOI/AAAAAAAAtEY/QiPNfTZjtS0/w1172-h781-no/4runnersilver799.JPG
+pickup,Chevy,Silverado,2007,74224,75,False,Red,Lot A,
